@@ -50,7 +50,7 @@ resources:
   - argocd/operators/cpd-453/cpd-operator.yaml
   - argocd/operators/cpd-453/ibm-rabbitmq-operator.yaml
   - argocd/operators/cpd-453/ibm-cloud-native-postgresql-operator.yaml
-  #- argocd/operators/cpd-453/ibm-watson-discovery-operator.yaml
+  - argocd/operators/cpd-453/ibm-watson-discovery-operator.yaml
   - argocd/operators/cpd-453/ibm-watson-assistant-operator.yaml
   #- NO-NEED-argocd/operators/cpd-453/ibm-cert-manager-operator.yaml
   #- NO-NEED-argocd/operators/cpd-453/ibm-elasticsearch-operator.yaml
